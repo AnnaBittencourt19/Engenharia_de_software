@@ -90,3 +90,4 @@
 	- Gerar o jar (e colocar no diretório target, mas não será um executável)
 	- O comando deve ser executado na raiz
 	- Cria o jar na pasta target
+- Separar testes, eles não tem que ir pro cliente, ele ocupa espaço (não é empacotado junto)
