@@ -3,4 +3,3 @@
 - Tem que estruturar os códigos
 - Criar abstrações (camadas): Poder tratar tipos de dados de forma diferente dependendo da camada (coisas que elementos compartilham em comum)
 - Orientação a objeto ajuda a criar as abstrações e padrões de projeto
-- Padrões de projeto: 

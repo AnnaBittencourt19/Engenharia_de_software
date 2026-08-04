@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 1 - Por que engenharia de software?.md",
+                "file": "Aulas/Aula 1 - Por que engenharia de software?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Aula 1 - Por que engenharia de software?"
             }
+          },
+          {
+            "id": "b51edc19a1b85660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 2 - Gerência de Dependências e Automatização da Build com Maven"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e0d48306f5f05323",
@@ -94,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9fbff16e6ef7466f",
@@ -200,8 +214,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "bd449e723331f877",
+  "active": "895202ca889827b9",
   "lastOpenFiles": [
-    "Aula 1 - Por que engenharia de software?.md"
+    "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.pdf",
+    "Aulas",
+    "Maven/Maven.iml",
+    "Maven/src/Main.java",
+    "Maven/src",
+    "Maven",
+    "Captura de Tela 2026-08-04 às 18.19.43.png",
+    "Captura de Tela 2026-08-04 às 18.18.56.png",
+    "Aulas/Aula 1 - Por que engenharia de software?.md",
+    "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.md"
   ]
 }
