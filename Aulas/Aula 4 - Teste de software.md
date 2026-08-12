@@ -1,0 +1,12 @@
+- Não são só para achar bugs e sim para garantir que uma classe vai continuar funcionando mesmo depois do bug ser corrigido (para gerenciar melhor). Também serve para documentação, documentar que o teste sabe aquilo, documentação técnica do que funciona
+- Piramide de testes![[Captura de Tela 2026-08-11 às 17.50.29.png]]
+	- Mais testes de unidade do que de integração e menos testes de sistema
+	- Quanto mais alto na pirâmide mais trabalhoso
+	- Fugir do escopo
+- Teste mock: Coisa com dependência em outras coisas. É uma imitação de algo. Mock Objects imitam outras classes
+- Teste de integração: Não usa mais mock, usa a informação real (substitui o mock pelos originais)(não funciona de primeira)
+- Teste funcional: Todos são testes funcionais (generaliza todos os tipos, testes de unidade, integração, mock...)
+- TDD: Escrever o teste primeiro e depois o código funcional. Serve para garantir que tenha testes. Desenvolvimento guiado por testes
+- Selenium: é um framework de código aberto muito popular usado para automatizar testes em navegadores web
+- Teste não-funcional: Coisas implicitas, teste de tempo de resposta, uso de CPU, uso de memória
+- 

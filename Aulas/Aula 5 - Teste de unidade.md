@@ -1,0 +1,14 @@
+- As ferramentas de testes são dependências dos códigos
+- JUnit: Para Java
+- Anti-padrão (o que não se deve fazer)
+- Piramide invertida![[Captura de Tela 2026-08-11 às 18.18.42.png]]
+- Faz primeiro o que é mais fácil, o manual
+- Padrão: unidade é uma classe
+- Todas as classes tem que colocar testes
+- Estrutura teste JUnit:
+![[Captura de Tela 2026-08-11 às 18.27.16.png]]
+	- É público para permitir que a dependência JUnit que executa o teste consiga testar o código
+	- É void porque o JUnit não espera respostas e um teste deve ser independente do outro (para ser independente precisa ser void)
+	- Não recebe parâmetros a JUnit não passa parâmetros
+	- O que é @Test? (Uma anotação(annotation)) , uma anotação é um metadado (essas anotações só fazem sentido para outro software, no caso o JUnit vai processar o @Test)
+	- assertTrue é do JUnit

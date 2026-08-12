@@ -1,0 +1,16 @@
+- Sistema de controle de versões: 
+	- Repositório: Armazenar versão mais recente do código
+	- Versionamento: Recuperar versões mais antigas
+- controle de versões distribuídos: Git
+	- Commit: local
+- Multirepos vs monorepos: 
+	- Multi: Trabalho separado por equipe, mais complexo de lidar  (tem que usar API para ligar tudo)
+	- Mono: Tudo junto, tudo disponível ali
+- Branch (galho): Trabalha de forma isolada mas "chega no mesmo lugar", tudo unificado. Pode unificar tudo pelo git merge
+- Merge pode gerar problema de conflito (alterar a mesma coisa, conflito de dependencia) 
+- FORK: 
+	- Se vc quiser fazer o fork de um repositorio publico, testar etc, tira 100 na NP2 sem fazer o projeto (ser auditado) (projeto open-source)
+- Precisa do .gitignore: Tudo que tá aqui não é adicionado
+	- ignorar as builds (não precisa versionar ele)
+	- ao clicar em add gitignore e selecionar a linguagem o git adiciona automatico para aquela linguagem
+	- 

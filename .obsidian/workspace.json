@@ -27,32 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.md",
+                "file": "Aulas/Aula 4 - Teste de software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 2 - Gerência de Dependências e Automatização da Build com Maven"
+              "title": "Aula 4 - Teste de software"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "e0d48306f5f05323",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ac0b98e39d29fc8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -109,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9fbff16e6ef7466f",
@@ -214,8 +201,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "895202ca889827b9",
+  "active": "b51edc19a1b85660",
   "lastOpenFiles": [
+    "Aulas/Aula 4 - Teste de software.pdf",
+    "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.md",
+    "Aulas/Aula 3 - Git.md",
+    "Aulas/Aula 4 - Teste de software.md",
+    "Aulas/Aula 5 - Teste de unidade.md",
+    "Aulas/Aula 5 - Teste de unidade.pdf",
+    "Captura de Tela 2026-08-11 às 18.27.16.png",
+    "Captura de Tela 2026-08-11 às 18.18.42.png",
+    "Captura de Tela 2026-08-11 às 17.50.29.png",
+    "Captura de Tela 2026-08-07 às 13.49.59.png",
     "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.pdf",
     "Aulas",
     "Maven/Maven.iml",
@@ -224,7 +221,6 @@
     "Maven",
     "Captura de Tela 2026-08-04 às 18.19.43.png",
     "Captura de Tela 2026-08-04 às 18.18.56.png",
-    "Aulas/Aula 1 - Por que engenharia de software?.md",
-    "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.md"
+    "Aulas/Aula 1 - Por que engenharia de software?.md"
   ]
 }
