@@ -9,4 +9,19 @@
 - TDD: Escrever o teste primeiro e depois o código funcional. Serve para garantir que tenha testes. Desenvolvimento guiado por testes
 - Selenium: é um framework de código aberto muito popular usado para automatizar testes em navegadores web
 - Teste não-funcional: Coisas implicitas, teste de tempo de resposta, uso de CPU, uso de memória
+- Assertiva: Verificação, metodo estatico do JUnit (assertTrue)
+- assertTrue; verificar se é True e o teste passa
+- Assert: 
+	![[Captura de Tela 2026-08-14 às 13.55.29.png]]
+- Usa assert no lugar de if else para indicar erros no teste
+- Testes separados, pushs e pops
+- Try em excessões para o teste causar uma excessão (coloca na classe original e não na classe de teste), comportamento correto: lançar excessão
+- 
+- Expected: é esperado a excessão então o teste não falha
+![[Captura de Tela 2026-08-14 às 14.23.22.png]]
+- Suíte de teste: Conjunto de casos de teste
+![[Captura de Tela 2026-08-14 às 14.34.49.png]]
+![[Captura de Tela 2026-08-14 às 14.35.51.png]]
+- Regressão de software: Teste protege contra isso, a regressão é quando um erro foi induzido em uma parte do código que já estava funcionando
+	- Passou tudo e depois de uma atualização no código dá errado, ver os testes que mudaram (de tudo funcionando para erro)
 - 

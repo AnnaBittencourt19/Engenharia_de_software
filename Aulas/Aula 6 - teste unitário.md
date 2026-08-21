@@ -1,0 +1,8 @@
+- FIRST
+- Fast: Rápido, por ser executado com frequência tem que ser rápido
+- Independente: A ordem dos testes não deve alterar o resultado, um teste não pode depender de outro teste
+- Repetível: Devem ter sempre o mesmo resultado, se não tiver os mesmos resultados é chamado teste do tipo Flaky
+- Self-Checking: Auto-verificáveis, resultado imediato. O resultado deve ser falhou/passou (O desenvolvedor não deve gastar tempo identificando o resultado de testes)
+- Timely (Quanto antes): Testes devem ser escritos o quanto antes
+- Deve se fazer UMA assertiva por teste (apenas um assert por teste) porém há excessões 
+- O ideal é criar vários testes unitários

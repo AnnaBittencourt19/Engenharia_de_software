@@ -1,0 +1,8 @@
+- Mockito: Dependência de fazer mock (Automatiza o mock ensinado na aula passado)
+- @Mock é a annotation dele e para usar no JUnit 
+- Testes baseados em estados: Se houve mudanças de estado. Verifica se o código devolve o resultado esperado
+- POJO: Classe que não usa nada 
+	- **Guarda dados**: Serve basicamente para armazenar informações em variáveis.
+	- **É independente**: Não depende de nenhuma biblioteca ou _framework_ externo.
+	- **É livre**: Não herda classes especiais e não segue regras rígidas.
+- Quando não fazer o mock: Mão mockar POJOs, não mockar código de outras pessoas
