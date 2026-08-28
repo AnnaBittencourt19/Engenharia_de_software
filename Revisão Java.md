@@ -1,0 +1,4 @@
+- Em Java todo código vive dentro de uma classe
+- O nome de arquivo tem que ser o mesmo da classe em `public class`
+- `public static void main(String[] args)`é o metodo principal
+	- public: 

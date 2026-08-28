@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Resumo do Claudio para estudar e revisar.md",
+                "file": "Revisão Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumo do Claudio para estudar e revisar"
+              "title": "Revisão Java"
             }
           }
         ],
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9fbff16e6ef7466f",
@@ -216,23 +217,23 @@
   },
   "active": "05b9519aa3d730a5",
   "lastOpenFiles": [
-    "Aulas/Resumo do Claudio para estudar e revisar.pdf",
-    "Aulas/Índice.pdf",
-    "Aulas/Aula 8.md",
-    "Aulas/Resumo do Claudio para estudar e revisar.md",
-    "Aulas/Aula 4 - Teste de software.md",
+    "Coddy/out/production/Coddy/ConversaoTipo.class",
+    "Coddy/src/ConversaoTipo.java",
     "Coddy/out/production/Coddy/HelloWorld.class",
-    "Coddy/src/HelloWorld.java",
-    "Coddy/out/production/Coddy",
-    "Coddy/out/production",
-    "Coddy/out",
-    "Coddy/Coddy.iml",
-    "Coddy/src/Hello_World.java",
-    "Coddy/Hello_World.java",
-    "Coddy/src/Main.java",
+    "Coddy/out/production/Coddy/Constante.class",
+    "Coddy/out/production/Coddy/Char.class",
+    "Coddy/out/production/Coddy/Comments.class",
+    "Coddy/out/production/Coddy/EstudandoString.class",
+    "Coddy/out/production/Coddy/Boolean.class",
+    "Coddy/out/production/Coddy/DeclaracaodeTipo.class",
+    "Coddy/out/production/Coddy/EnsinoMain.class",
+    "Coddy/out/production/Coddy/IntDouble.class",
+    "Aulas/Resumo do Claudio para estudar e revisar.md",
+    "Revisão Java.md",
+    "Aulas/Aula 8.md",
+    "Aulas/Aula 4 - Teste de software.md",
     "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.md",
     "Aulas/Aula 1 - Por que engenharia de software?.md",
-    "Sem título.md",
     "Relatorio.md",
     "relatorio Radio Mobile/Sem título.md",
     "relatorio Radio Mobile/Relatorio.md",

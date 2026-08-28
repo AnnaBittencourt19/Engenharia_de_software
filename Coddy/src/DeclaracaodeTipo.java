@@ -5,7 +5,7 @@ public class DeclaracaodeTipo {
         double total = 150.75;
         char grade = 'A';
         boolean isActive = false;
-        String userName = "Bob123";
+        String userName = "Anna";
 
         // Exibe os valores
         System.out.println("Count: " + count);

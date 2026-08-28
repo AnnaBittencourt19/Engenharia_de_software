@@ -1,4 +1,4 @@
-public class String {
+public class EstudandoString {
     public static void main(String[] args) {
         // Digite seu código abaixo
         String coddy = "I am learning to code with Coddy!";
