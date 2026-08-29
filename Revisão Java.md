@@ -1,4 +1,10 @@
 - Em Java todo código vive dentro de uma classe
+- Java é totalmente orientado a objeto e fortemente tipada
 - O nome de arquivo tem que ser o mesmo da classe em `public class`
 - `public static void main(String[] args)`é o metodo principal
-	- public: 
+	- public: qualquer classe pode chamar
+	- static: pertence a classe
+	- void: não devolve nada
+	- String`[]`args: argumentos
+- Entrada: Scanner scan = new Scanner(System.in) e scan.nextLine()
+- 

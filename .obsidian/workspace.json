@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9fbff16e6ef7466f",
@@ -217,6 +216,9 @@
   },
   "active": "05b9519aa3d730a5",
   "lastOpenFiles": [
+    "Aulas/Aula 1 - Por que engenharia de software?.md",
+    "Aulas/Aula 8 - Mock.md",
+    "Revisão Java.md",
     "Coddy/out/production/Coddy/ConversaoTipo.class",
     "Coddy/src/ConversaoTipo.java",
     "Coddy/out/production/Coddy/HelloWorld.class",
@@ -227,13 +229,9 @@
     "Coddy/out/production/Coddy/Boolean.class",
     "Coddy/out/production/Coddy/DeclaracaodeTipo.class",
     "Coddy/out/production/Coddy/EnsinoMain.class",
-    "Coddy/out/production/Coddy/IntDouble.class",
     "Aulas/Resumo do Claudio para estudar e revisar.md",
-    "Revisão Java.md",
-    "Aulas/Aula 8.md",
     "Aulas/Aula 4 - Teste de software.md",
     "Aulas/Aula 2 - Gerência de Dependências e Automatização da Build com Maven.md",
-    "Aulas/Aula 1 - Por que engenharia de software?.md",
     "Relatorio.md",
     "relatorio Radio Mobile/Sem título.md",
     "relatorio Radio Mobile/Relatorio.md",
